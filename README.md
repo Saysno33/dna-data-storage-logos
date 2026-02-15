@@ -2,7 +2,18 @@
 Conceptual, mathematical, and engineering scaffolding for DNA data storage as an information substrate
 # The Discovery of DNA Data Storage
 
-A technical and conceptual project treating DNA not as a metaphorical storage medium, but as a literal, base-4 digital substrate with civilizational-scale archival potential.
+This repository implements the `A → source → ki → system-logos → script` architecture for DNA data storage as an information substrate. It couples narrative, formal constraints, and executable tooling.
+
+- `source/` – raw notes, references, historical fragments.
+- `ki/` – formal layer (constraints, channel models, code constructions).
+- `system-logos/` – high-order narrative (Discovery text, future keynotes/briefs).
+- `script/` – encoding/decoding pipelines and simulators.
+
+Primary project hub (wiki, registrations, future preprints):
+
+- OSF project: (paste your OSF DNA storage project URL here)
+- GitHub mirror: https://github.com/Saysno33/dna-data-storage-logos
+
 
 ## Scope
 
